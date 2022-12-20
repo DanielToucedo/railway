@@ -1,6 +1,7 @@
 <?php 
 //tras hacer los inserts vuelve a formulario.php
-@ $conexion = new mysqli("localhost", "root", "", "preparadasb");
+@ $conexion = new mysqli("containers-us-west-171.railway.app", "root", "uZfRyyhqGaFCHZz9W4vo", "railway","
+7270");
 
 extract($_POST);
 echo "<pre>";
