@@ -30,7 +30,7 @@ foreach ($idAlumnos as $key => $value) {
 	$consulta->execute();//Ejecuta la sql con los valores
 
 }
-echo"<a href="enlacepagina.html">"."Volver a Formulario.php"."</a>";
+echo"<a href=formulario.php>"."Volver a Formulario.php"."</a>";
 }
 
 
